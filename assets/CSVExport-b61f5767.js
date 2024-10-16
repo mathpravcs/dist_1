@@ -1,0 +1,1 @@
+import{n,j as t,ap as a,au as i}from"./index-7f10300b.js";import{C as p}from"./index-f502522b.js";const l=({data:e,filename:o,headers:r})=>{const s=n();return t.jsx(p,{data:e,filename:o,headers:r,children:t.jsx(a,{title:"CSV Export",children:t.jsx(i,{style:{fontSize:"24px",color:s.palette.text.secondary,marginTop:4,marginRight:4,marginLeft:4}})})})};export{l as C};
